@@ -1,4 +1,4 @@
-package lab_1.Task01;
+package labs.lab1.task01;
 
 class MyFirstClass {
     public static void main(String[] s) {
